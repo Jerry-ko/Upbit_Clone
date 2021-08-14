@@ -1,0 +1,230 @@
+{
+    "market": {
+        "KLIN": [
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "51000000",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "BTC"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "1100000",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "ETH"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0.1",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "BNG"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "FIT"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "GNT"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "LOOM"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "MANA"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "MP"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "MTL"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "TUSD"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "ZEBS"
+            }
+        ],
+        "ETH": [
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "GNT"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "LOOM"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "MANA"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "ZEBS"
+            }
+        ],
+        "BTC": [
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0.1",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "ETH"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "GNT"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "LOOM"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "MANA"
+            },
+            {
+                "high": "0",
+                "close": "0",
+                "period": 86400,
+                "last": "0",
+                "volume": "0",
+                "open": "0",
+                "low": "0",
+                "deal": "0",
+                "stock": "ZEBS"
+            }
+        ]
+    }
+}
